@@ -14537,9 +14537,7 @@ dependencies = [
  "http",
  "httparse",
  "log",
- "native-tls",
  "rand 0.9.4",
- "rustls",
  "sha1 0.10.6",
  "thiserror 2.0.18",
 ]
